@@ -81,3 +81,31 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+
+
+/*Copycat Project*/
+#copystart {
+    text-align: center;
+    /*border: solid;*/
+    margin-top: -40px;
+}
+
+.leftfloat {
+    float: left;
+}
+
+#copydesword {
+    margin-left: 400px;
+    margin-top: 40px;
+    /*border: solid;*/
+}
+
+.topmargin {
+    /*border: solid;*/
+    margin-top: 20px;
+}
+
+.down {
+    clear: left;
+}
