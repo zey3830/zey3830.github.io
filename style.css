@@ -82,15 +82,13 @@ a {
     color: #2e72a1 !important;
 }
 
-
-
-/*Copycat Project*/
-#copystart {
+.subtitle {
     text-align: center;
     /*border: solid;*/
     margin-top: -40px;
 }
 
+/*Copycat Project*/
 .leftfloat {
     float: left;
 }
